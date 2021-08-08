@@ -21,6 +21,8 @@
 
 # ^^^ getting used to python ^^^
 
+#-----------SOLVE ARITHMETIC START HERE-------------
+
 #start input validation loop
 while True:
 	#get equation from user
